@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 
 <img  align="left"  alt="Vue Js"  width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
-<img  align="left"  alt="React"  width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img  align="left"  alt="MongoDB"  width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
