@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<img  align="left"  alt="Samir Rustamov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=srustamov&show_icons=true&hide_border=true&theme=radical" />
+
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srustamov&layout=compact&theme=radical" />
 
