@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 
 [<img align="left" alt="Samir Rustamov| LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samir-rustamov/)
