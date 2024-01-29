@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Samir Rustamov| Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@samir_rustamov)
 
-[<img align="left" alt="Samir Rustamov| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />   ](https://twitter.com/rustemov_tt)
+[<img align="left" alt="Samir Rustamov| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />   ](https://twitter.com/srustam0v)
 
 [<img align="left" alt="Samir Rustamov| Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/samir_rustamov1/)
 
