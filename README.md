@@ -1,4 +1,4 @@
-### Hi there 👋
+### ...
 
 <!-- ![](https://komarev.com/ghpvc/?username=srustamov&color=brightgreen) -->
 
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!-- ### Connect with me: -->
 
 
-[<img align="left" alt="Samir Rustamov| LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samir-rustamov/)
+[<img align="left" alt="Samir Rustamov| LinkedIn" width="30px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>](https://www.linkedin.com/in/samir-rustamov/)
 
-[<img align="left" alt="Samir Rustamov| Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@samir_rustamov)
+[<img align="left" alt="Samir Rustamov| Medium" width="30px" src="https://www.svgrepo.com/show/449830/medium.svg"/>](https://medium.com/@samir_rustamov)
 
-[<img align="left" alt="Samir Rustamov| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />   ](https://twitter.com/srustam0v)
+[<img align="left" alt="Samir Rustamov| Twitter" width="30px" src="https://www.svgrepo.com/show/475689/twitter-color.svg"/>   ](https://twitter.com/srustam0v)
 
